@@ -1,6 +1,12 @@
 # 📘 计算机面试题 RAG 智能辅导助手
 
 基于 LangChain + Ollama 本地部署的中文 RAG + Agent 系统，面向计算机专业面试备考。
+<img width="2552" height="1271" alt="image" src="https://github.com/user-attachments/assets/b7f965bb-d759-4e64-afec-25d012a220d9" />
+<img width="2555" height="1260" alt="image" src="https://github.com/user-attachments/assets/8730da88-a479-472b-bc12-0098c77a4ed8" />
+<img width="2557" height="1251" alt="image" src="https://github.com/user-attachments/assets/252546e0-2449-4ddb-84ac-6b4063131f84" />
+
+
+
 
 ---
 
